@@ -1,0 +1,16 @@
+account_name,team_name,escalated_conversations,avg_human_wait_until_first_reply_minutes,median_human_wait_until_first_reply_minutes,avg_minutes_until_human_assignment,avg_resolution_time_minutes
+Pacific Goods,Suporte,142,23.49,17.6,2485.37,4685.83
+Lusitânia Seguros,Onboarding,113,22.62,18.27,2084.13,3617.11
+Lusitânia Seguros,Suporte,118,22.49,17.72,2456.11,5465.99
+Lojas Aurora,Financeiro,136,19.97,18.1,1791.01,3671.5
+Lusitânia Seguros,Financeiro,113,19.46,18.07,2404.86,3932.92
+TechNova Brasil,Onboarding,125,19.33,13.96,2189.71,3975.72
+Northwind Retail,Onboarding,124,19.25,17.95,1889.31,3863.74
+Pacific Goods,Onboarding,117,19.17,15.98,2230.8,3775.08
+Lojas Aurora,Onboarding,117,19.07,16.73,2458.42,3876.15
+Northwind Retail,Financeiro,143,18.56,16.8,1295.1,3102.45
+Pacific Goods,Financeiro,130,17.79,17.4,2660.59,4846.33
+Lojas Aurora,Suporte,101,17.61,12.22,1953.99,3640.14
+TechNova Brasil,Suporte,111,17.61,16.13,2357.65,4069.6
+TechNova Brasil,Financeiro,115,17.23,15.02,2397.13,3752.81
+Northwind Retail,Suporte,130,17.19,15.81,2514.47,4583.3

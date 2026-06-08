@@ -1,0 +1,6 @@
+instance,account_id,account_name,timezone,business_open_hour,business_close_hour
+1,1,Lojas Aurora,America/Sao_Paulo,8,18
+1,2,TechNova Brasil,America/Sao_Paulo,9,19
+2,1,Northwind Retail,America/New_York,9,17
+2,5,Pacific Goods,America/Los_Angeles,8,16
+3,1,Lusitânia Seguros,Europe/Lisbon,9,18

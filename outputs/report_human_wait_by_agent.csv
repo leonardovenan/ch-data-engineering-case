@@ -1,0 +1,19 @@
+instance,agent_user_id,agent_name,escalated_conversations,escalated_conversations_with_human_reply,avg_human_wait_until_first_reply_minutes,median_human_wait_until_first_reply_minutes,avg_minutes_until_human_assignment,conversations_with_quality_issue
+3,11,Ana Souza,55,43,26.77,20.07,3312.08,6
+3,10,Bruno Lima,45,40,24.57,20.74,1936.49,1
+1,14,Bruno Lima,122,98,22.89,18.11,2328.8,14
+3,12,Hugo Pena,72,61,21.51,17.18,2220.05,4
+2,10,Hugo Pena,156,133,20.96,18.13,2368.09,9
+3,15,Erika Mota,56,46,20.29,14.89,1363.02,4
+2,14,Ana Souza,138,110,20.16,17.39,2353.88,8
+2,15,Bruno Lima,120,99,19.84,16.22,2296.86,9
+1,10,Diego Reis,116,103,19.47,16.05,1556.41,15
+3,13,Diego Reis,56,40,19.0,17.98,2651.22,5
+1,12,Gabi Nunes,118,99,18.39,15.03,2219.75,10
+2,11,Diego Reis,135,119,18.35,16.45,1510.28,10
+2,12,Felipe Alves,116,90,17.9,15.92,2395.17,8
+3,14,Carla Dias,60,46,17.8,14.97,2385.5,3
+2,13,Carla Dias,121,94,17.78,15.79,2103.72,11
+1,13,Hugo Pena,110,87,17.15,15.15,2370.09,9
+1,15,Felipe Alves,116,94,16.91,14.21,2436.12,6
+1,11,Ana Souza,123,98,16.38,15.63,2193.19,13

@@ -1,0 +1,3 @@
+resolution_level,conversations,resolved_conversations,reopened_conversations,avg_resolution_time_minutes,median_resolution_time_minutes,avg_queue_minutes,avg_ai_service_minutes,avg_human_service_minutes,avg_first_reply_time_minutes,avg_first_human_reply_time_minutes
+n1,2881,2714,335,1403.28,30.13,2.81,23.04,255.99,0.78,
+n2,2119,2029,252,1834.94,395.75,31.04,21.05,678.01,0.76,387.15

@@ -1,0 +1,2 @@
+conversations,resolved_conversations,reopened_conversations,avg_resolution_time_minutes,avg_queue_minutes,avg_service_minutes,avg_ai_service_minutes,avg_human_service_minutes,avg_first_reply_time_minutes,conversations_with_quality_issue
+5000,4743,587,1587.94,14.77,457.04,22.2,434.84,0.77,394
